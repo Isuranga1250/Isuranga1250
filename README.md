@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuranga1250&label=Profile%20views&color=0e75b6&style=flat" alt="isuranga1250" /> </p>
 
-- 🔭 I’m currently working on **Films Website**
+- 🔭 I’m currently working on **RECIPE MOBILE APP**
 
 - 🌱 I’m currently learning **Java**
 
